@@ -3,14 +3,15 @@
 ## Images
 
 - https://hub.docker.com/u/ingllot
+
 - Currency Exchange Service 
-	- ingllot/mmv2-currency-exchange-service:0.0.1-SNAPSHOT
+    - ingllot/mmv2-currency-exchange-service:0.0.1-SNAPSHOT
 - Currency Conversion Service
-	- ingllot/mmv2-currency-conversion-service:0.0.1-SNAPSHOT
+    - ingllot/mmv2-currency-conversion-service:0.0.1-SNAPSHOT
 - Eureka
-	- ingllot/mmv2-naming-server:0.0.1-SNAPSHOT
+    - ingllot/mmv2-naming-server:0.0.1-SNAPSHOT
 - API GATEWAY
-	- ingllot/mmv2-api-gateway:0.0.1-SNAPSHOT
+    - ingllot/mmv2-api-gateway:0.0.1-SNAPSHOT
 
 ## URLS
 
